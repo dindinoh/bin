@@ -5,7 +5,7 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-sudo apt-get install elementary-tweaks wingpanel-slim indicator-synapse chromium-browser firefox cable gazette linux-generic-lts-raring
+sudo apt-get install elementary-tweaks wingpanel-slim indicator-synapse chromium-browser firefox cable gazette linux-generic-lts-raring dconf-tools
 
 echo 'Installing Flash for Midori' &&
 read -p 'Press Enter to continue, or abort by pressing CTRL+C' nothing &&
